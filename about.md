@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/ProfilePic.JPG" caption="ProfilePic" width=300 align="right" %}
 
  Hello, my name is Taehei Hayley Kim. I am a master student at Motion Computing Laboratory at KAIST.
   I am interested in character animation, especially regarding human motion. I am looking into motion retargeting,
